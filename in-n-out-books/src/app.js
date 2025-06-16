@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
           font-family: 'Segoe UI', sans-serif;
           background-color: #fefcf8;
           color: #333;
-        }
+        }ss
         header {
           background-color:rgb(89, 31, 92);
           color: white;
@@ -37,7 +37,7 @@ app.get('/', (req, res) => {
           margin-bottom: 2em;
         }
         h2 {
-          color: #b30059;
+          color:rgb(28, 65, 8);
         }
         ul {
           list-style-type: square;
@@ -77,8 +77,8 @@ app.get('/', (req, res) => {
         <section>
           <h2>Contact Us</h2>
           <p>Email: <a href="mailto:support@innoutbooks.com">support@innoutbooks.com</a><br>
-             Phone: (800) 555-READ<br>
-             Address: 123 Story Lane, Fictionville, FL 12345</p>
+             Phone: (281) 990 - 7788)br>
+             Address: 123 Story Lane, Knoxville, TN 37911</p>
         </section>
       </main>
 
